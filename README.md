@@ -40,7 +40,7 @@ Power Bi in conjuction with SQL and Excel was used to create databses, clean dat
 - In 2009, a whopping total duration of 1,700 days pf protests was recorded.
 - Approximately 32,000 deaths have been recorded due to protests since 1990.
 
-- Link to the full interactive dashboard: [Link to hosted dashboard]
+- Link to the full interactive dashboard: [Link to hosted dashboard](https://dee-ui.github.io/git-page/)
 
 
 
