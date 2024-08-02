@@ -1,4 +1,4 @@
-# Nigeria-Protest-Analysis-Project
+# ⛳🏳⛳ Nigeria-Protest-Analysis-Project
 
 ## Project Description
 - What are the most common causes of protests in Nigeria?
